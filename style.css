@@ -6,13 +6,21 @@
 container {
   background-color: lemonchiffon;
 }
+.html, 
+.body{ 
+  height: 100px
+}
 
-header a {
+.wrapper {
+  min-height: 100px;
+}
+.header-box {
   width: 100%;
   height: 100px;
   line-height: 100px;
   color: #f00b0b;
   background-color: #3a966a;
+  text-align: center;
 }
 
 figure {
