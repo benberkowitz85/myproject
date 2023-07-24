@@ -28,7 +28,8 @@ figure {
   background-color: #f0ead6;
 }
 
-<element="class".section-img> {
+.element 
+.section-img> {
   border-style: groove;
   border-color: blue
 } 
