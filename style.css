@@ -7,12 +7,11 @@ container {
   background-color: lemonchiffon;
 }
 
-header,
-footer {
+header a {
   width: 100%;
   height: 100px;
   line-height: 100px;
-  color: #f0ead6;
+  color: #f00b0b;
   background-color: #3a966a;
 }
 
@@ -20,7 +19,11 @@ figure {
   width: 200px;
   background-color: #f0ead6;
 }
- 
+
+<element="class".section-img> {
+  border-style: groove;
+  border-color: blue
+} 
 /* TODO: Label selector type */
 .highlighted-text {
   font-weight: bolder;
