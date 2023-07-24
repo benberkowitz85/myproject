@@ -28,14 +28,6 @@ section {
   border: 15px solid black;
 }
 
-img#assests\Finn5.JPG {
-  width: 200px;
-  height: 200px;
-  margin: 20px;
-  padding: 20px;
-  border: 9px solid darkblue;
-}
-
 /* TODO: Label selector type */
 .highlighted-text {
   font-weight: bolder;
