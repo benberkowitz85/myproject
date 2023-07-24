@@ -21,14 +21,11 @@ figure {
   background-color: #f0ead6;
 }
 
-section {
-  width: 600px;
-  height: 600px;
-  text-align: center;
-  border: 15px solid black;
+.img-border {
+  border: 10px color: #3a966a; 
 }
 
-.C:\Users\bjber\OneDrive\Documents\GitHub\myproject\assests\Finn5.JPG{
+.C:\Users\bjber\OneDrive\Documents\GitHub\myproject\assests\Finn5.JPG {
   border-radius: 50%;
   border: #3a966a;
 }
