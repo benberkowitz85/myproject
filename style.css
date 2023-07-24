@@ -20,20 +20,11 @@ figure {
   width: 200px;
   background-color: #f0ead6;
 }
-
-.img-border {
-  border: 10px color: #3a966a; 
-}
-
-.C:\Users\bjber\OneDrive\Documents\GitHub\myproject\assests\Finn5.JPG {
-  border-radius: 50%;
-  border: #3a966a;
-}
+ 
 /* TODO: Label selector type */
 .highlighted-text {
   font-weight: bolder;
 }
-
 
 #contact-section {
   background-color: #f0ead6;
