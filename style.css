@@ -28,7 +28,7 @@ section {
   border: 15px solid black;
 }
 
-img {
+img#assests\Finn5.JPG {
   width: 200px;
   height: 200px;
   margin: 20px;
@@ -41,7 +41,7 @@ img {
   font-weight: bolder;
 }
 
-/* TODO: Label selector type */
+
 #contact-section {
   background-color: #f0ead6;
 }
