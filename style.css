@@ -78,7 +78,7 @@ input[type=submit]:hover {
 }
 
 /* Add a background color and some padding around the form */
-.container {
+container {
   border-radius: 25px;
   background-color: #f2f2f29c;
   padding: 35px;
