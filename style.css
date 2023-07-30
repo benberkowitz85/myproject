@@ -1,43 +1,33 @@
-/* TODO: Label selector type */
-* {
-    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-  }
 
-container {
-  background-color: lemonchiffon;
-}
-.html, 
-.body{ 
-  height: 100px
-}
-
-.wrapper {
-  min-height: 100px;
-}
-.header {
-  width: 100%;
+body { 
   height: 100px;
-  line-height: 100px;
-  color: #f00b0b;
-  background-color: #3a966a;
-  text-align: center;
+  background-color: crimson;
+} 
+
+header {
+ text-align: center;
+ background: #011d03;
+ color: #ff0000;
+ font-family: 'Times New Roman', Times, serif ;
+ width:100%;
+ height: 60px;;
+ font-size: 50px;
 }
 
 figure {
-  width: 200px;
+  width: 100%px;
   background-color: #f0ead6;
 }
 
-.element 
-.section-img> {
+section-img> {
   border-style: groove;
   border-color: blue
 } 
 /* TODO: Label selector type */
-.highlighted-text {
+highlighted-text {
   font-weight: bolder;
 }
 
-#contact-section {
+contact-section {
   background-color: #f0ead6;
 }
