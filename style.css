@@ -16,17 +16,30 @@ header {
  padding: 40px;
 }
 
+section {
+  text-align: left;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular';
+  font-size: 15px;
+}
+
 figure {
- text-align: start;
+ text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
+  border-color: blue;
+  border-style: groove;
+  border-width: 20px;
 }
 
 contact-information {
   color: rgb(231, 37, 7);
   font-family: Verdana;
   font-size: 15px;
+  font-weight: bolder;
+  text-align: center;
 }
+
+
 
 footer {
   background-color: blue;
