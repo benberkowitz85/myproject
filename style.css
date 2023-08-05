@@ -30,7 +30,7 @@ section-1 {
 }
 
 section-2 {
-text-align: start;
+text-align:left
 font-family: 'Times New Roman', Times, serif;
 font-weight: lighter;
 }
@@ -94,7 +94,7 @@ container {
 contact-form {
 color:rgb(11, 117, 239); 
 font-family: 'Times New Roman', Times, serif;
-font-size: 20px;
+font-size: 50px;
 font-weight: bolder;
 text-align: center;
 }
